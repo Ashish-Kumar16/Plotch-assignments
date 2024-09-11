@@ -5,6 +5,8 @@
 #the group_by_owners function should return 
 # output = {'Randy': ['Input.txt', 'Output.txt'], 'Stan': ['Code.py']}.
 
+
+#solution
 def group_by_owners(files):
     result = {}
     for file, owner in files.items():

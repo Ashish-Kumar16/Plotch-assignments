@@ -5,6 +5,8 @@
 #b = {'a': 4, 'b': 5, 'y': 6}
 #def dictMerge(a, b):
 
+
+#solution
 def dictMerge(a, b):
     merged = a.copy()  
     for key, value in b.items():

@@ -1,5 +1,8 @@
  #2. count the occurrences of a particular element in the 
 #list and output highest occurring element
+
+
+#solution
 days = ['sun','mon','mon','tue','wed','thu','fri','sat','mon','thu',]
 dic = {}
 for day in days:
